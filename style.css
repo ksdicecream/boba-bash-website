@@ -1,5 +1,5 @@
 img {
-    height: 400px;
+    height: 300px;
     border-radius: 2px;
 }
 
@@ -33,6 +33,14 @@ body {
 
 #footerimg:hover {
     transform: rotate(720deg);
+}
+
+#silly {
+    height: 100px;
+}
+
+.mainimgs {
+    height: 400px;
 }
 
 .description {
